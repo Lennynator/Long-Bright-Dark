@@ -1,1 +1,1 @@
-C:\Users\lenka\RPG\Long_Bright_Dark
+/home/kulker/gameprojects/Long-Bright-Dark/Long_Bright_Dark
